@@ -123,7 +123,7 @@ ol {
 }
 
 li.hoverable:hover a {
-  color: red; /* ホバー時の色を指定してください */
+  color: red; 
 }
 
 
