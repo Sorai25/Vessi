@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.65 111.65">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: NotoSansCJKjp-Bold-90ms-RKSJ-H, 'Noto Sans CJK JP';
+        font-size: 26px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #2e3438;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #e6e6e5;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="cls-3" cx="55.82" cy="55.82" r="54.82"/>
+    <path class="cls-2" d="M55.82,111.65C25.04,111.65,0,86.61,0,55.82S25.04,0,55.82,0s55.82,25.04,55.82,55.82-25.04,55.82-55.82,55.82ZM55.82,2C26.15,2,2,26.15,2,55.82s24.15,53.82,53.82,53.82,53.82-24.15,53.82-53.82S85.5,2,55.82,2Z"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-2" x="23.08" y="33.35" width="38.28" height="5" transform="translate(-13.07 39.19) rotate(-43.8)"/>
+      <rect class="cls-2" x="66.09" y="14.75" width="5" height="40.6" transform="translate(-4.18 60.3) rotate(-46.2)"/>
+    </g>
+    <text class="cls-1" transform="translate(29.02 81.55)"><tspan x="0" y="0">TOP</tspan></text>
+  </g>
+</svg>
